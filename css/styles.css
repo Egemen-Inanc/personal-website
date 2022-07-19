@@ -1,0 +1,153 @@
+/*************************Tags********************************************/
+body {
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: white;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.50rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a{
+  color:#11999E;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  border:solid #EAF6F6 10px;
+  border-radius: 50%;
+
+}
+
+
+hr{
+
+border: dotted grey 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+
+
+/**********************Classes*******************************************/
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #30e3cb);
+  background-image: -moz-linear-gradient(top, #30e3cb, #30e3cb);
+  background-image: -ms-linear-gradient(top, #30e3cb, #30e3cb);
+  background-image: -o-linear-gradient(top, #30e3cb, #30e3cb);
+  background-image: linear-gradient(to bottom, #30e3cb, #30e3cb);
+  text-decoration: none;
+}
+
+
+
+.bottom-container {
+  margin-top:50px;
+  background-color: #66bfbf;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.browser-icon{
+ width: 20%;
+ height: 20%;
+ border-style: none;
+ float: right;
+ margin-left: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 200px;
+  left: 400px;
+}
+.contact-me{
+  margin: 40px auto 60px;
+  line-height: 2;
+  width: 40%;
+}
+.copyright{
+  color: #EAF6F6;
+}
+.image-round{
+  width: 20%;
+  height: 20%;
+  border-style: none;
+  border-radius:50%;
+}
+.intro{
+  width: 30%;
+  margin: 30px auto;
+}
+.laptop-image{
+  width: 20%;
+  height: 20%;
+  border-style: none;
+  border-radius:50%;
+  float: left;
+  margin-right: 30px;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+}
+
+
+.small_icon{
+  height: 32px;
+  width: 32px;
+}
+
+.skill-row{
+ width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+/*************************ID************************************************/
